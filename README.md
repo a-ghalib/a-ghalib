@@ -1,8 +1,9 @@
-<img align="right" src="https://raw.githubusercontent.com/a-ghalib/a-ghalib/main/github-profile.gif" width="30%">
 <h1>
   Hi There I'm Ahmed Ghalib 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img margin="0" src="https://raw.githubusercontent.com/a-ghalib/a-ghalib/main/wave.gif" width="50">
 </h1>
+<img align="right" src="https://raw.githubusercontent.com/a-ghalib/a-ghalib/main/github-profile.gif" width="35%">
+<br>
 <p>
 I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
 </p>
