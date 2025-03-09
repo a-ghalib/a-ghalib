@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/a-ghalib/a-ghalib/main/github-profile.png" width="30%">
+<img align="right" src="https://raw.githubusercontent.com/a-ghalib/a-ghalib/main/github-profile.gif" width="30%">
 <h1>
   Hi There I'm Ahmed Ghalib 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
