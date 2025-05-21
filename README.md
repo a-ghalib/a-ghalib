@@ -22,7 +22,7 @@
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/a-ghalib/"><img
     src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://www.instagram.com/_coding_web/"><img
+<a href="https://www.instagram.com/t_a_7_w_i/"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="Facebook"></a>
 </p>
@@ -34,7 +34,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-ghalib&layout=compact)
 <br>
 <br>
