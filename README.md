@@ -2,7 +2,7 @@
   <img  src="https://raw.githubusercontent.com/a-ghalib/a-ghalib/main/hello.gif" width="auto">
 </p>
   <br>
-  <div align="center">
+  <div align="center" margin-top= "20px">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Coder+%7C+React+Enthusiast;Ahmed+Ghalib;" alt="Typing SVG" />
   </div>
   <br>
